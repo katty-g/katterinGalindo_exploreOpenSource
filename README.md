@@ -8,3 +8,4 @@ Since Delilah sourced most of her user-testers through her network, their backgr
 My response to the prompt is below: “
 
 Delilah can update her app to be more inclusive and ask POCs for feedback.
+Doing a rebranding for the app after she makes the changes can also attract more users and people of other backgrounds and communities 
